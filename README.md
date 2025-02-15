@@ -17,13 +17,14 @@ By leveraging **K-Means and Agglomerative Clustering**, this study provides insi
 
 The dataset, sourced from **Datahub**, consists of **S&P 500 index data from 1870 to 2023**. It contains **1,833 observations** and **10 financial features**, including:  
 
-- **S&P 500 Index Level**  
+-  **Date**
+-  **S&P 500 Index Level**  
 - **Dividends**  
 - **Earnings**  
 - **Consumer Price Index (CPI)**  
 - **Long-Term Interest Rates**  
 - **Real Price & Real Earnings**  
-- **Cyclically Adjusted PE Ratio (CAPE)**  
+- **PE10 - Cyclically Adjusted PE Ratio (CAPE)**  
 
 ### Ethical Considerations  
 
